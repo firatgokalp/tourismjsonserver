@@ -1,11 +1,226 @@
 {
   "hotels":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
+  {
+    "lat": "36.4654504",
+    "lon": "32.1209022",
+    "hotelname": "The Lumos Deluxe Resort Hotel ",
+    "id": 1,
+    "location": "Antalya",
+    "star": 1,
+    "concept": "Ultimate Herşey Dahil",
+    "price": 149.36,
+    "url": "/hotel/detail/1"
+  },
+  {
+    "lat": "36.650999",
+    "lon": "31.6761333",
+    "hotelname": "Oz Hotels Sui",
+    "id": 2,
+    "location": "Antalya",
+    "star": 3,
+    "concept": "Herşey Dahil",
+    "price": 149.36,
+    "url": "/hotel/detail/2"
+  },
+  {
+    "lat": "36.589065",
+    "lon": "31.859606",
+    "hotelname": "İnsula Resort Spa Hotel",
+    "id": 3,
+    "location": "Antalya",
+    "star": 2,
+    "concept": "Ultra Herşey Dahil",
+    "price": 149.36,
+    "url": "/hotel/detail/3"
+  },
+  {
+    "lat": "36.5888746",
+    "lon": "31.8562961",
+    "hotelname": "Club Turtaş Beach Hotel",
+    "id": 4,
+    "location": "Antalya",
+    "star": 1,
+    "concept": "Herşey Dahil",
+    "price": 149.36,
+    "url": "/hotel/detail/4"
+  },
+  {
+    "lat": "36.600943",
+    "lon": "31.812214",
+    "hotelname": "Senza The Inn Resort & Spa Hotel",
+    "id": 5,
+    "location": "Antalya",
+    "star": 5,
+    "concept": "Ultra Herşey Dahil",
+    "price": 149.36,
+    "url": "/hotel/detail/5"
+  },
+  {
+    "lat": "36.606528",
+    "lon": "31.782737",
+    "hotelname": "Sirius Deluxe Hotel",
+    "id": 6,
+    "location": "Antalya",
+    "star": 1,
+    "concept": "Ultra Herşey Dahil",
+    "price": 149.36,
+    "url": "/hotel/detail/6"
+  },
+  {
+    "lat": "36.583276",
+    "lon": "31.874332",
+    "hotelname": "MC Arancia Resort Hotel ",
+    "id": 7,
+    "location": "Antalya",
+    "star": 4,
+    "concept": "Ultra Herşey Dahil",
+    "price": 149.36,
+    "url": "/hotel/detail/7"
+  },
+  {
+    "lat": "36.658616",
+    "lon": "31.658512",
+    "hotelname": "Delphin Deluxe Resort Hotel",
+    "id": 8,
+    "location": "Antalya",
+    "star": 4,
+    "concept": "Ultra Herşey Dahil",
+    "price": 149.36,
+    "url": "/hotel/detail/8"
+  },
+  {
+    "lat": "36.599078",
+    "lon": "31.811158",
+    "hotelname": "Aydınbey Gold Dreams Hotel",
+    "id": 9,
+    "location": "Antalya",
+    "star": 3,
+    "concept": "Ultra Herşey Dahil",
+    "price": 149.36,
+    "url": "/hotel/detail/9"
+  },
+  {
+    "lat": "36.625809",
+    "lon": "31.762008",
+    "hotelname": "Annabella Diamond Resort ",
+    "id": 10,
+    "location": "Antalya",
+    "star": 2,
+    "concept": "Herşey Dahil Plus",
+    "price": 149.36,
+    "url": "/hotel/detail/10"
+  },
+  {
+    "lat": "36.649873",
+    "lon": "31.686259",
+    "hotelname": "Orange County Resort Hotel Alanya ",
+    "id": 11,
+    "location": "Antalya",
+    "star": 4,
+    "concept": "Ultra Herşey Dahil",
+    "price": 149.36,
+    "url": "/hotel/detail/11"
+  },
+  {
+    "lat": "36.589732",
+    "lon": "31.859053",
+    "hotelname": "Senza İnova Beach Hotel",
+    "id": 12,
+    "location": "Antalya",
+    "star": 3,
+    "concept": "Herşey Dahil",
+    "price": 149.36,
+    "url": "/hotel/detail/12"
+  },
+  {
+    "lat": "36.536123",
+    "lon": "32.036344",
+    "hotelname": "Oba Star Hotel & Spa– Ultra Herşey Dahil ",
+    "id": 13,
+    "location": "Antalya",
+    "star": 1,
+    "concept": "Ultra Herşey Dahil",
+    "price": 149.36,
+    "url": "/hotel/detail/13"
+  },
+  {
+    "lat": "36.5840008",
+    "lon": "31.8723196",
+    "hotelname": "MC Mahberi Beach Hotel ",
+    "id": 14,
+    "location": "Antalya",
+    "star": 3,
+    "concept": "Herşey Dahil",
+    "price": 149.36,
+    "url": "/hotel/detail/14"
+  },
+  {
+    "lat": "36.6527446",
+    "lon": "31.669232",
+    "hotelname": "Gardenia Beach Hotel",
+    "id": 15,
+    "location": "Antalya",
+    "star": 1,
+    "concept": "Herşey Dahil",
+    "price": 149.36,
+    "url": "/hotel/detail/15"
+  },
+  {
+    "lat": "36.651343",
+    "lon": "31.671134",
+    "hotelname": "Saphir Resort & Spa Hotel",
+    "id": 16,
+    "location": "Antalya",
+    "star": 5,
+    "concept": "Herşey Dahil",
+    "price": 149.36,
+    "url": "/hotel/detail/16"
+  },
+  {
+    "lat": "36.658522",
+    "lon": "31.661049",
+    "hotelname": "Delphin Botanik Platinum ",
+    "id": 17,
+    "location": "Antalya",
+    "star": 2,
+    "concept": "Herşey Dahil",
+    "price": 149.36,
+    "url": "/hotel/detail/17"
+  },
+  {
+    "lat": "36.622573",
+    "lon": "31.7654219",
+    "hotelname": "Kolibri Hotel",
+    "id": 18,
+    "location": "Antalya",
+    "star": 5,
+    "concept": "Herşey Dahil",
+    "price": 149.36,
+    "url": "/hotel/detail/18"
+  },
+  {
+    "lat": "36.485246",
+    "lon": "32.096973",
+    "hotelname": "Senza Grand Santana Hotel",
+    "id": 19,
+    "location": "Antalya",
+    "star": 5,
+    "concept": "Herşey Dahil",
+    "price": 149.36,
+    "url": "/hotel/detail/19"
+  },
+  {
+    "lat": "36.609850",
+    "lon": "31.779671",
+    "hotelname": "Alaiye Resort & Spa Hotel",
+    "id": 20,
+    "location": "Antalya",
+    "star": 1,
+    "concept": "Herşey Dahil",
+    "price": 149.36,
+    "url": "/hotel/detail/20"
+  }
+],
   "featured":[
         { "id": 1, "hotelname": "Sisus Hotel", "location": "Antalya / Üçkumtepesi", "star": 5, "concept": "Ultra Her Şey Dahil", "price": 149.36, "url": "hotel" },
         { "id": 2, "hotelname": "Sisus Hotel", "location": "Antalya / Üçkumtepesi", "star": 3, "concept": "Ultra Her Şey Dahil", "price": 149.36, "url": "hotel" },
