@@ -6,6 +6,13 @@
       "content" : "My first content!"
     }
   ],
+  "featured":[
+        { "id": 1, "hotelname": "Sisus Hotel", "location": "Antalya / Üçkumtepesi", "star": 5, "concept": "Ultra Her Şey Dahil", "price": 149.36, url: "hotel" },
+        { "id": 2, "hotelname": "Sisus Hotel", "location": "Antalya / Üçkumtepesi", "star": 3, "concept": "Ultra Her Şey Dahil", "price": 149.36, url: "hotel" },
+        { "id": 3, "hotelname": "Sisus Hotel", "location": "Antalya / Üçkumtepesi", "star": 5, "concept": "Ultra Her Şey Dahil", "price": 149.36, url: "hotel" },
+        { "id": 4, "hotelname": "Sisus Hotel", "location": "Antalya / Üçkumtepesi", "star": 4, "concept": "Ultra Her Şey Dahil", "price": 149.36, url: "hotel" },
+        { "id": 5, "hotelname": "Sisus Hotel", "location": "Antalya / Üçkumtepesi", "star": 5, "concept": "Ultra Her Şey Dahil", "price": 149.36, url: "hotel" }
+   ],
   "tours":[
     { "id": 1, "tourname": "Amsterdam Kış Turu", "destination": "Amsterdam", "price": 149.36, "url": "/" },
     { "id": 2, "tourname": "Amsterdam Kış Turu", "destination": "Amsterdam", "price": 149.36, "url": "/" },
