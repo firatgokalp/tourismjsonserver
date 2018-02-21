@@ -1,5 +1,11 @@
 {
-
+  "hotels":[
+    {
+      "id" : 0,
+      "title": "First post!",
+      "content" : "My first content!"
+    }
+  ],
   "tours":[
     { "id": 1, "tourname": "Amsterdam Kış Turu", "destination": "Amsterdam", "price": 149.36, "url": "/" },
     { "id": 2, "tourname": "Amsterdam Kış Turu", "destination": "Amsterdam", "price": 149.36, "url": "/" },
