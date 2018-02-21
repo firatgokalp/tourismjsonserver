@@ -7,10 +7,10 @@
     }
   ],
   "featured" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
-  ]
+        { id: 1, hotelname: "Sisus Hotel", location: "Antalya / Üçkumtepesi", star: 5, concept: "Ultra Her Şey Dahil", price: 149.36, url: "hotel" },
+        { id: 2, hotelname: "Sisus Hotel", location: "Antalya / Üçkumtepesi", star: 3, concept: "Ultra Her Şey Dahil", price: 149.36, url: "hotel" },
+        { id: 3, hotelname: "Sisus Hotel", location: "Antalya / Üçkumtepesi", star: 5, concept: "Ultra Her Şey Dahil", price: 149.36, url: "hotel" },
+        { id: 4, hotelname: "Sisus Hotel", location: "Antalya / Üçkumtepesi", star: 4, concept: "Ultra Her Şey Dahil", price: 149.36, url: "hotel" },
+        { id: 5, hotelname: "Sisus Hotel", location: "Antalya / Üçkumtepesi", star: 5, concept: "Ultra Her Şey Dahil", price: 149.36, url: "hotel" }
+   ]
 }
