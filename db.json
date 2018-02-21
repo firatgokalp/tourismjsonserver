@@ -7,10 +7,29 @@
     }
   ],
   "featured" : [
-        { id: 1, hotelname: "Sisus Hotel", location: "Antalya / Üçkumtepesi", star: 5, concept: "Ultra Her Şey Dahil", price: 149.36, url: "hotel" },
-        { id: 2, hotelname: "Sisus Hotel", location: "Antalya / Üçkumtepesi", star: 3, concept: "Ultra Her Şey Dahil", price: 149.36, url: "hotel" },
-        { id: 3, hotelname: "Sisus Hotel", location: "Antalya / Üçkumtepesi", star: 5, concept: "Ultra Her Şey Dahil", price: 149.36, url: "hotel" },
-        { id: 4, hotelname: "Sisus Hotel", location: "Antalya / Üçkumtepesi", star: 4, concept: "Ultra Her Şey Dahil", price: 149.36, url: "hotel" },
-        { id: 5, hotelname: "Sisus Hotel", location: "Antalya / Üçkumtepesi", star: 5, concept: "Ultra Her Şey Dahil", price: 149.36, url: "hotel" }
-   ]
+        { "id": 1, "hotelname": "Sisus Hotel", "location": "Antalya / Üçkumtepesi", "star": 5, "concept": "Ultra Her Şey Dahil", "price": 149.36, url: "hotel" },
+        { "id": 2, "hotelname": "Sisus Hotel", "location": "Antalya / Üçkumtepesi", "star": 3, "concept": "Ultra Her Şey Dahil", "price": 149.36, url: "hotel" },
+        { "id": 3, "hotelname": "Sisus Hotel", "location": "Antalya / Üçkumtepesi", "star": 5, "concept": "Ultra Her Şey Dahil", "price": 149.36, url: "hotel" },
+        { "id": 4, "hotelname": "Sisus Hotel", "location": "Antalya / Üçkumtepesi", "star": 4, "concept": "Ultra Her Şey Dahil", "price": 149.36, url: "hotel" },
+        { "id": 5, "hotelname": "Sisus Hotel", "location": "Antalya / Üçkumtepesi", "star": 5, "concept": "Ultra Her Şey Dahil", "price": 149.36, url: "hotel" }
+   ],
+      "tours": [
+        { "id": 1, "tourname": "Amsterdam Kış Turu", "destination": "Amsterdam", "price": 149.36, "url": "/" },
+        { "id": 2, "tourname": "Amsterdam Kış Turu", "destination": "Amsterdam", "price": 149.36, "url": "/" },
+        { "id": 3, "tourname": "Amsterdam Kış Turu", "destination": "Amsterdam", "price": 149.36, "url": "/" },
+        { "id": 4, "tourname": "Amsterdam Kış Turu", "destination": "Amsterdam", "price": 149.36, "url": "/" },
+        { "id": 5, "tourname": "Amsterdam Kış Turu", "destination": "Amsterdam", "price": 149.36, "url": "/" },
+        { "id": 6, "tourname": "Amsterdam Kış Turu", "destination": "Amsterdam", "price": 149.36, "url": "/" }
+      ],
+      "slides": [
+        {"id": 1, "img": "https://placeimg.com/200/200/nature", "alt": "slide 1" },
+        {"id": 2, "img": "https://placeimg.com/200/200/nature", "alt": "slide 2" },
+        {"id": 3, "img": "https://placeimg.com/200/200/nature", "alt": "slide 3" },
+        {"id": 4, "img": "https://placeimg.com/200/200/nature", "alt": "slide 4" },
+        {"id": 5, "img": "https://placeimg.com/200/200/nature", "alt": "slide 5" },
+        {"id": 6, "img": "https://placeimg.com/200/200/nature", "alt": "slide 6" },
+        {"id": 7, "img": "https://placeimg.com/200/200/nature", "alt": "slide 7" },
+        {"id": 8, "img": "https://placeimg.com/200/200/nature", "alt": "slide 8" },
+        {"id": 9, "img": "https://placeimg.com/200/200/nature", "alt": "slide 9" },
+      ]
 }
