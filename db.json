@@ -312,14 +312,8 @@
     { "id": 6, "tourname": "Amsterdam Kış Turu", "destination": "Amsterdam", "price": 149.36, "url": "/" }
   ],
   "slides":[
-    {"id": 1, "img": "https://placeimg.com/200/200/nature", "alt": "slide 1" },
-    {"id": 2, "img": "https://placeimg.com/200/200/nature", "alt": "slide 2" },
-    {"id": 3, "img": "https://placeimg.com/200/200/nature", "alt": "slide 3" },
-    {"id": 4, "img": "https://placeimg.com/200/200/nature", "alt": "slide 4" },
-    {"id": 5, "img": "https://placeimg.com/200/200/nature", "alt": "slide 5" },
-    {"id": 6, "img": "https://placeimg.com/200/200/nature", "alt": "slide 6" },
-    {"id": 7, "img": "https://placeimg.com/200/200/nature", "alt": "slide 7" },
-    {"id": 8, "img": "https://placeimg.com/200/200/nature", "alt": "slide 8" },
-    {"id": 9, "img": "https://placeimg.com/200/200/nature", "alt": "slide 9" }
+    {"id": 1, "img": "https://picsum.photos/id/1003/900/300", "alt": "slide 1" },
+    {"id": 2, "img": "https://picsum.photos/id/1011/900/300", "alt": "slide 2" },
+    {"id": 3, "img": "https://picsum.photos/id/1018/900/300", "alt": "slide 3" }
   ]
 }
