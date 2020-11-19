@@ -10,7 +10,7 @@
     "star": 2,
     "concept": "Ultimate Herşey Dahil",
     "price": 149.36,
-    "url": "/hotel/detail/1"
+    "url": "/hotels/1"
   },
   {
     "lat": "36.650999",
@@ -22,7 +22,7 @@
     "star": 1,
     "concept": "Herşey Dahil",
     "price": 149.36,
-    "url": "/hotel/detail/2"
+    "url": "/hotels/2"
   },
   {
     "lat": "36.589065",
@@ -34,7 +34,7 @@
     "star": 2,
     "concept": "Ultra Herşey Dahil",
     "price": 149.36,
-    "url": "/hotel/detail/3"
+    "url": "/hotels/3"
   },
   {
     "lat": "36.5888746",
@@ -46,7 +46,7 @@
     "star": 1,
     "concept": "Herşey Dahil",
     "price": 149.36,
-    "url": "/hotel/detail/4"
+    "url": "/hotels/4"
   },
   {
     "lat": "36.600943",
@@ -58,7 +58,7 @@
     "star": 4,
     "concept": "Ultra Herşey Dahil",
     "price": 149.36,
-    "url": "/hotel/detail/5"
+    "url": "/hotels/5"
   },
   {
     "lat": "36.606528",
@@ -70,7 +70,7 @@
     "star": 2,
     "concept": "Ultra Herşey Dahil",
     "price": 149.36,
-    "url": "/hotel/detail/6"
+    "url": "/hotels/6"
   },
   {
     "lat": "36.583276",
@@ -82,7 +82,7 @@
     "star": 1,
     "concept": "Ultra Herşey Dahil",
     "price": 149.36,
-    "url": "/hotel/detail/7"
+    "url": "/hotels/7"
   },
   {
     "lat": "36.658616",
@@ -94,7 +94,7 @@
     "star": 3,
     "concept": "Ultra Herşey Dahil",
     "price": 149.36,
-    "url": "/hotel/detail/8"
+    "url": "/hotels/8"
   },
   {
     "lat": "36.599078",
@@ -106,7 +106,7 @@
     "star": 2,
     "concept": "Ultra Herşey Dahil",
     "price": 149.36,
-    "url": "/hotel/detail/9"
+    "url": "/hotels/9"
   },
   {
     "lat": "36.625809",
@@ -118,7 +118,7 @@
     "star": 3,
     "concept": "Herşey Dahil Plus",
     "price": 149.36,
-    "url": "/hotel/detail/10"
+    "url": "/hotels/10"
   },
   {
     "lat": "36.649873",
@@ -130,7 +130,7 @@
     "star": 3,
     "concept": "Ultra Herşey Dahil",
     "price": 149.36,
-    "url": "/hotel/detail/11"
+    "url": "/hotels/11"
   },
   {
     "lat": "36.589732",
@@ -142,7 +142,7 @@
     "star": 3,
     "concept": "Herşey Dahil",
     "price": 149.36,
-    "url": "/hotel/detail/12"
+    "url": "/hotels/12"
   },
   {
     "lat": "36.536123",
@@ -154,7 +154,7 @@
     "star": 1,
     "concept": "Ultra Herşey Dahil",
     "price": 149.36,
-    "url": "/hotel/detail/13"
+    "url": "/hotels/13"
   },
   {
     "lat": "36.5840008",
@@ -166,7 +166,7 @@
     "star": 3,
     "concept": "Herşey Dahil",
     "price": 149.36,
-    "url": "/hotel/detail/14"
+    "url": "/hotels/14"
   },
   {
     "lat": "36.6527446",
@@ -178,7 +178,7 @@
     "star": 2,
     "concept": "Herşey Dahil",
     "price": 149.36,
-    "url": "/hotel/detail/15"
+    "url": "/hotels/15"
   },
   {
     "lat": "36.651343",
@@ -190,7 +190,7 @@
     "star": 5,
     "concept": "Herşey Dahil",
     "price": 149.36,
-    "url": "/hotel/detail/16"
+    "url": "/hotels/16"
   },
   {
     "lat": "36.658522",
@@ -202,7 +202,7 @@
     "star": 3,
     "concept": "Herşey Dahil",
     "price": 149.36,
-    "url": "/hotel/detail/17"
+    "url": "/hotels/17"
   },
   {
     "lat": "36.622573",
@@ -214,7 +214,7 @@
     "star": 1,
     "concept": "Herşey Dahil",
     "price": 149.36,
-    "url": "/hotel/detail/18"
+    "url": "/hotels/18"
   },
   {
     "lat": "36.485246",
@@ -226,7 +226,7 @@
     "star": 2,
     "concept": "Herşey Dahil",
     "price": 149.36,
-    "url": "/hotel/detail/19"
+    "url": "/hotels/19"
   },
   {
     "lat": "36.609850",
@@ -238,7 +238,7 @@
     "star": 1,
     "concept": "Herşey Dahil",
     "price": 149.36,
-    "url": "/hotel/detail/20"
+    "url": "/hotels/20"
   }
 ],
   "featured":[
@@ -252,7 +252,7 @@
     "star": 5,
     "concept": "Herşey Dahil",
     "price": 149.36,
-    "url": "/hotel/detail/16"
+    "url": "/hotels/16"
   },
   {
     "lat": "36.658522",
@@ -264,7 +264,7 @@
     "star": 3,
     "concept": "Herşey Dahil",
     "price": 149.36,
-    "url": "/hotel/detail/17"
+    "url": "/hotels/17"
   },
   {
     "lat": "36.622573",
@@ -276,7 +276,7 @@
     "star": 1,
     "concept": "Herşey Dahil",
     "price": 149.36,
-    "url": "/hotel/detail/18"
+    "url": "/hotels/18"
   },
   {
     "lat": "36.485246",
@@ -288,7 +288,7 @@
     "star": 2,
     "concept": "Herşey Dahil",
     "price": 149.36,
-    "url": "/hotel/detail/19"
+    "url": "/hotels/19"
   },
   {
     "lat": "36.609850",
@@ -300,7 +300,7 @@
     "star": 1,
     "concept": "Herşey Dahil",
     "price": 149.36,
-    "url": "/hotel/detail/20"
+    "url": "/hotels/20"
   }
    ],
   "tours":[
